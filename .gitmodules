@@ -1,0 +1,3 @@
+[submodule "bad-licenses"]
+	path = bad-licenses
+	url = https://github.com/ErikMcClure/bad-licenses.git
