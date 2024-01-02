@@ -23,5 +23,6 @@ spełnianie definicji wolnej licencji wg OSI czy FSF.
 
 # A co z licencją użytkowania
 
-[Licencja oprogramowania](https://flameeyes.blog/2020/03/23/the-gpl-is-not-an-eula/) dotyczy dystrybucji, niekoniecznie użytkowania.
+[Licencja oprogramowania](https://flameeyes.blog/2020/03/23/the-gpl-is-not-an-eula/) dotyczy dystrybucji, niekoniecznie użytkowania 
+(spojrzeć na podobieństwo między copyrightem dystrybutora a autorskimi prawami majątkowymi).
 Może w jeszcze wolniejszej chwili będę zbierał przykłady takich licencji (bo gugiel przecież nie wystarczy).
