@@ -15,6 +15,8 @@ W zamierzeniu przejmowanie się jedynie drugim kryterium miałoby znaczenie filo
 W strukturze repozytorium kieruję się obydwoma kryteriami w ww. kolejności, co oznacza, że grupa permisywnych licencji typu MIT będzie 
 w osobnym folderze od permisywnych licencji typu Apache.
 
+Taka hierarchizacja będzie też przeprowadzona w podmodule ze "złymi" i śmiechowymi licencjami.
+
 ## Format pliku
 Treść licencji poprzedza informacja o przetłumaczonej nazwie licencji, autorstwie, licencji danego tłumaczenia i kategorii typu 
 spełnianie definicji wolnej licencji wg OSI czy FSF.
